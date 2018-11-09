@@ -125,5 +125,3 @@ three statments to call database_conniction function . recive query then print t
 #How to run the code?
 you can run thr code by use this command
 (python ProjectOne.py)
-
-
