@@ -1,19 +1,25 @@
 
 1. What are the most popular three articles of all time?
 
-('"candidate-is-jerk" - 338647 Views',)
-('"bears-love-berries" - 253801 Views',)
-('"bad-things-gone" - 170098 Views',)
+answer 1
+
+"Candidate is jerk, alleges rival" - 338647 Views
+"Bears love berries, alleges bear" - 253801 Views
+"Bad things gone, say good people" - 170098 Views
 
 
 2. Who are the most popular article authors of all time?
 
-('Ursula La Multa - 507594 Views',)
-('Rudolf von Treppenwitz - 423457 Views',)
-('Anonymous Contributor - 170098 Views',)
-('Markoff Chaney - 84557 Views',)
+answer 2
+
+Ursula La Multa - 507594 Views
+Rudolf von Treppenwitz - 423457 Views
+Anonymous Contributor - 170098 Views
+Markoff Chaney - 84557 Views
 
 
 3. On which days did more than 1% of requests lead to errors?
 
-('Jul 17, 2016 - 2.26% errors',)
+answer 3
+
+Jul 17, 2016 - 2.26% errors

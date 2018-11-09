@@ -1,5 +1,6 @@
 
-This program for how to solve Three query question on news database of first project of fullstack cource of udacity
+This program for how to solve Three query question on news database of 
+first project of fullstack cource of udacity
 which have Three tables articles, authors and log.
 
 Before start you should run virtual machin and vagrant 
@@ -121,7 +122,8 @@ iii.Log: table includes one entry for each time a user has accessed the site.
 in the ProjectOne.py file I used psycopg2 module to connect to the database and, I used database_conniction function that is recive string as a query then I use 
 three statments to call database_conniction function . recive query then print the result .
 
-#
-	
+#How to run the code?
+you can run thr code by use this command
+(python ProjectOne.py)
 
 
